@@ -1,2 +1,3 @@
-# node-with-react-fullstack-journey
-Repository to code the project that is built at the Node with React: Fullstack Web Development udemy course.
+# FullstackReactCode
+
+Companion repo to a course on Udemy.com. See here: https://www.udemy.com/node-with-react-fullstack-web-development
